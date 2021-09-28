@@ -4,6 +4,7 @@ Olá, me chamo Matheus Oliveira, tenho 23 anos e faço streams quando tenho temp
 
 - 📍Manaus - AM;
 - 📖 Amante dos Mangás;
-- 📝 Estudando atualmente Typescrip e Node (back-end);
+- 📝 Estudando atualmente Angular(front-end) e Node (back-end);
+- 📝 Participando do Bootcamp Impulso React Web Developer (Digital Inovation One - DIO);
 
 🚀Never Stop Learning🚀
