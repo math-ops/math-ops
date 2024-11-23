@@ -1,9 +1,9 @@
 # "Hello World!"
 
-Olá, me chamo Matheus Oliveira, tenho 23 anos e faço streams quando tenho tempo livre. Na jornada para me tornar o Dev Front-End que o Matheus de 12 anos sonhava em ser. 🚀
+Olá, me chamo Matheus Oliveira, tenho 25 anos e faço streams quando tenho tempo livre. Na jornada para me tornar o Dev Front-End que o Matheus de 12 anos sonhava em ser. 🚀
 
 - 📍Manaus - AM;
 - 📖 Amante dos Mangás;
-- 📝 Estudando atualmente Angular(front-end) e Node (back-end);
+- 📝 Formando em Engenharia de Software (5/8)
 
 🚀Never Stop Learning🚀
